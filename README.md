@@ -1,2 +1,2 @@
-一个Minecraft Fabric模组
+一个Minecraft Fabric模组，
 你可以在切石机中将各种颜色的玻璃切成对应的玻璃板，也可以将铁锭直接切成铁栏杆或锁链
