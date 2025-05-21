@@ -8,8 +8,8 @@ pack.mcmeta可以通过先创建一个.txt文件，编辑完内容以后再保�
 
 pack.mcmeta内容样本：
 {
-	"pack": {
-		"pack_format": 48,
-		"description": "datapack"
-	}
+    "pack": {
+        "pack_format": 48,
+        "description": "datapack"
+    }
 }
