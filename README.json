@@ -6,7 +6,7 @@
 —如果需要数据包也可以将模组解压，在根目录放一个有效的pack.mcmeta文件，最后重新压缩成.zip文件就行了。
 pack.mcmeta可以通过先创建一个.txt文件，编辑完内容以后再保存为.mcmeta格式来创建
 
-pack.mcmeta内容样本：
+pack.mcmeta内容样本(以1.21为例)：
 {
     "pack": {
         "pack_format": 48,
